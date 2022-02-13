@@ -14,5 +14,6 @@ module.exports = {
   rules: {
     'no-tabs': 'off',
     'require-jsdoc': 'off',
+    'linebreak-style': 'off',
   },
 };
