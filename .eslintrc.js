@@ -15,5 +15,8 @@ module.exports = {
     'no-tabs': 'off',
     'require-jsdoc': 'off',
     'linebreak-style': 'off',
+    'object-curly-spacing': [2, 'always'],
+    'operator-linebreak': 'off',
+    'indent': 'off',
   },
 };
